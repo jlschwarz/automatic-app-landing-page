@@ -8,4 +8,4 @@ include_in_header: false
 November 13 2020
 
 # Privacy Policy
-We don't collect any personal information. See Team Cowboy's [Privacy Policy] (https://www.teamcowboy.com/privacyPolicy) 
+We don't collect any personal information. See Team Cowboy's [Privacy Policy](https://www.teamcowboy.com/privacyPolicy) 
